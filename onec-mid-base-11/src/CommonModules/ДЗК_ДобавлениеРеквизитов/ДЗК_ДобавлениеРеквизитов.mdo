@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29362b82-fd38-47a8-b755-4815f82421fa">
+  <name>ДЗК_ДобавлениеРеквизитов</name>
+  <synonym>
+    <key>ru</key>
+    <value>ДЗК добавление реквизитов</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
